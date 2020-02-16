@@ -103,8 +103,6 @@
         ></a-plane>
       </a-marker>
 
-      <!--
-
       <a-marker
         id='frac4'
         type='pattern'
@@ -141,7 +139,7 @@
         ></a-text>
       </a-marker>
 
-      -->
+      <!--
 
       <a-marker
         id='frac4'
@@ -155,6 +153,7 @@
           position='0 0 0'
         ></a-entity>
       </a-marker>
+      -->
 
       <a-camera-static />
     </a-scene>
