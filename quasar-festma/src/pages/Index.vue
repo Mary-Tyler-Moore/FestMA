@@ -144,12 +144,12 @@
       -->
 
       <a-marker
-        id='3d'
+        id='frac4'
         type='pattern'
         url='statics/marker/pt-frac4.ptt'
       >
         <a-entity
-          gltf-model="#3d"
+          gltf-model="#frac4"
           src='statics/Gate2.gltf'
           scale="1 1 1"
           position='0 0 0'
