@@ -35,7 +35,7 @@
 
       <a-box
         color="yellow"
-        gps-entity-place="latitude: 32.428387; longitude: 81.76802839999999"
+        gps-entity-place="latitude: 32.428387; longitude: 81.768028"
         position="0 30 0"
       />
 
