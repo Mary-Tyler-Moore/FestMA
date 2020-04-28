@@ -11,7 +11,7 @@
           <!-- <img src="statics/Logo_festma.png" width="90vh"> -->
           <!-- <div slot="subtitle">Running on Quasar v{{ $q.version }}</div> -->
         </q-toolbar-title>
-
+        <!--
         <q-btn
           dense
           round
@@ -21,6 +21,7 @@
         >
           <q-icon name="code" />
         </q-btn>
+        -->
       </q-toolbar>
     </q-layout-header>
 
@@ -125,6 +126,7 @@
         </div>
       </q-modal-layout>
     </q-modal>
+    -->
 
     <q-page-container>
       <router-view />
